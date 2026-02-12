@@ -1,0 +1,12 @@
+# Common exclusions
+node_modules/
+dist/
+dist-ssr/
+*.local
+.vscode/
+.idea/
+.DS_Store
+
+# Include the app subfolder (Git will use the .gitignore inside it too)
+app/node_modules/
+app/dist/
